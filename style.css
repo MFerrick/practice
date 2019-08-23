@@ -13,8 +13,27 @@
   font-size: 42px;
 }
 
+.main h3 {
+  color: blue;
+
+}
+
 .main img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.main {
+  text-align: center;
+  font-size: 36px;
+}
+
+.list img {
+  width: 100px;
+  height: 100px;
+}
+
+.list {
+  list-style: none;
 }
